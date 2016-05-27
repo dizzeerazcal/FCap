@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FCap</string>
+    <string name="default_location">Default Location</string>
+    <string name="default_description_notes">Not specified</string>
+    <string name="default_property_owner">Not specified</string>
+    <string name="default_address_1">Not specified</string>
+    <string name="default_address_2">Not specified</string>
+    <string name="default_country">Not specified</string>
+    <string name="default_postal_code">Standard</string>
+    <string name="default_city">Musterhausen</string>
+    <string name="descr_realties_list_activity">Realties Overview</string>
+    <string name="text_show_realties">Show realties</string>
+</resources>
